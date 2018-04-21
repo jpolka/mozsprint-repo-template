@@ -1,10 +1,8 @@
-# [ Project Title ]
+# Tracking scientific journal practices
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+We will build a user-editable database of journal practices relating to the openness of peer review, the recognition of early career researchers who contribute to peer review, and detailed policies on preprinting.
 
-[ If you have one, add your logo or an image here ]
-
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+Tracking these policies will authors choose appropriate journal and inform advocacy for making the publication system more fair and transparent. 
 
 ## Getting Started
 
@@ -16,7 +14,10 @@ Thanks for your interest in contributing to [PROJECT]! There are many ways to co
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [jessica.polka@gmail.com].
+
+## License
+
 
 ## MozSprint
 

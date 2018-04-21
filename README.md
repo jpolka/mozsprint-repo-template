@@ -6,7 +6,7 @@ Tracking these policies will authors choose appropriate journal and inform advoc
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+Coming soon!
 
 ## Contributing
 

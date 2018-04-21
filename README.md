@@ -18,6 +18,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## License
 
+This project is licensed under a CC BY 4.0 International license. For more information, see [LICENSE.md] (license.md)
 
 ## MozSprint
 
